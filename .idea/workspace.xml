@@ -11,10 +11,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FARCHD/main/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
+            <state relative-caret-position="252">
               <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding>
                 <element signature="e#1190#1233#0" expanded="true" />
@@ -26,8 +26,18 @@
       <file leaf-file-name="FARC_HD.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FARCHD/main/FARC_HD.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+            <state relative-caret-position="128">
+              <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config0.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FARCHD/main/simpleTest/scripts/Chi-RW-C/iris/config0.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,7 +54,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Inside readInputFiles, line</find>
       <find>L_3:</find>
       <find>Using Triangular Membership Functions as antecedent fuzzy sets</find>
       <find>cadena: @Using Triangular Membership Functions as antecedent fuzzy sets</find>
@@ -74,6 +83,7 @@
       <find>RuleBase</find>
       <find>inferencetype</find>
       <find>inferenceType</find>
+      <find>getTrainingInputFile</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -100,8 +110,8 @@
         <option value="$PROJECT_DIR$/Chi_RW/main/Rule.py" />
         <option value="$PROJECT_DIR$/Chi_RW/main/RuleBase.py" />
         <option value="$PROJECT_DIR$/Chi_RW/main/Fuzzy_Chi.py" />
-        <option value="$PROJECT_DIR$/FARCHD/main/FARC_HD.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/Main.py" />
+        <option value="$PROJECT_DIR$/FARCHD/main/FARC_HD.py" />
       </list>
     </option>
   </component>
@@ -168,6 +178,46 @@
               <item name="pythonFARCHD" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonFARCHD" type="462c0819:PsiDirectoryNode" />
               <item name="FARCHD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonFARCHD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonFARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="FARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonFARCHD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonFARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="FARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonFARCHD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonFARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="FARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonFARCHD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonFARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="FARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Chi-RW-C" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonFARCHD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonFARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="FARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Chi-RW-C" type="462c0819:PsiDirectoryNode" />
+              <item name="iris" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -443,15 +493,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2933687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21697612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0738255" sideWeight="0.8632689" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.017478153" sideWeight="0.23607427" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08988764" sideWeight="0.24562334" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.37623763" sideWeight="0.9092838" order="5" side_tool="false" content_ui="tabs" x="2880" y="34" width="2880" height="1526" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.033557046" sideWeight="0.46397188" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11260253" sideWeight="0.47697714" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.032459427" sideWeight="0.46206897" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11235955" sideWeight="0.47480106" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959828" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.017478153" sideWeight="0.76392573" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08988764" sideWeight="0.75437665" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3212166" sideWeight="0.48998243" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -574,13 +625,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/result2e1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="95" lean-forward="false" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/results/Chi-RW-C.iris/result9e1.txt" />
     <entry file="file://$PROJECT_DIR$/result9e1.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -685,21 +729,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FARCHD/main/FARC_HD.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FARCHD/main/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
+        <state relative-caret-position="252">
           <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding>
             <element signature="e#1190#1233#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/FARC_HD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/simpleTest/scripts/Chi-RW-C/iris/config0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
