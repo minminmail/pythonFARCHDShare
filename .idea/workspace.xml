@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cb9cce7-cd4a-48b7-abe5-3087505addde" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FARCHD/main/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <folding>
+                <element signature="e#1190#1233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FARC_HD.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FARCHD/main/FARC_HD.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-225">
+              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Inside readInputFiles, line</find>
+      <find>L_3:</find>
+      <find>Using Triangular Membership Functions as antecedent fuzzy sets</find>
+      <find>cadena: @Using Triangular Membership Functions as antecedent fuzzy sets</find>
+      <find>before classificationOutput in Fuzzy_Chi</find>
+      <find>getOutputValue</find>
+      <find>getNominalValue</find>
+      <find>length of self.__nominalValues is</find>
+      <find>file</find>
+      <find>printString</find>
+      <find>has the Same class, hits is</find>
+      <find>productCompatibility</find>
+      <find>compatibility</find>
+      <find>consequent_PCF4</find>
+      <find>classificationOutput</find>
+      <find>rule.weight</find>
+      <find>max:</find>
+      <find>FRM</find>
+      <find>In Fuzzy_Chi,classOut &gt;= 0, to call getOutputValue</find>
+      <find>In Fuzzy_Chi,classificationOutput,classOut</find>
+      <find>has the Same class, hits is :</find>
+      <find>membershipDegree in productCompatibility  =</find>
+      <find>antecedent</find>
+      <find>14 has the Same class, hits is</find>
+      <find>setTwoParameters</find>
+      <find>has the Same class,</find>
+      <find>doOutput</find>
+      <find>RuleBase</find>
+      <find>inferencetype</find>
+      <find>inferenceType</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Chi_RW" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Chi_RW/main/Help_Classes/ErrorInfo.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Help_Classes/InstanceParser.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Help_Classes/InstanceAttributes.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/MultiMain.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Main.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Help_Classes/FormatErrorKeeper.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Help_Classes/Instance.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/DataBase.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Fuzzy.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/ParseParameters.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Help_Classes/Attribute.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Help_Classes/Attributes.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Help_Classes/InstanceSet.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/MyDataSet.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Rule.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/RuleBase.py" />
+        <option value="$PROJECT_DIR$/Chi_RW/main/Fuzzy_Chi.py" />
+        <option value="$PROJECT_DIR$/FARCHD/main/FARC_HD.py" />
+        <option value="$PROJECT_DIR$/FARCHD/main/Main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-113" />
+    <option name="y" value="114" />
+    <option name="width" value="1924" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Default">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PythonChi" type="cbb8eebc:String" user="PythonChi" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PythonChi" type="cbb8eebc:String" user="PythonChi" />
+              <item name="Chi_RW" type="cbb8eebc:String" user="Chi_RW" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PythonChi" type="cbb8eebc:String" user="PythonChi" />
+              <item name="Chi_RW" type="cbb8eebc:String" user="Chi_RW" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PythonChi" type="cbb8eebc:String" user="PythonChi" />
+              <item name="Chi_RW" type="cbb8eebc:String" user="Chi_RW" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="Help_Classes" type="cbb8eebc:String" user="Help_Classes" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonFARCHD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonFARCHD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonFARCHD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonFARCHD" type="462c0819:PsiDirectoryNode" />
+              <item name="FARCHD" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PythonChi" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PythonChi" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pythonAlgorithms\pythonFARCHD\FARCHD\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pythonAlgorithms\pythonFARCHD\FARCHD\main\simpleTest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.FARCHD">
+    <configuration name="FARCHD" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonChi" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FARCHD/main/Main.py" />
+      <option name="PARAMETERS" value="C:\pythonAlgorithms\pythonFARCHD\FARCHD\main\simpleTest\scripts\Chi-RW-C\iris\config0.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python">
+      <output_file path="$PROJECT_DIR$/logs.txt" is_save="true" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonChi" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chi_RW/main/Main.py" />
+      <option name="PARAMETERS" value="C:\pythonAlgorithms\PythonChi\Chi_RW\main\simpleTest\scripts\Chi-RW-C\iris\config0.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MultiMain" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonChi" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chi_RW/main/MultiMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="C:\python37\python.exe" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonChi" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\minr\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonChi" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.MultiMain" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FARCHD" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cb9cce7-cd4a-48b7-abe5-3087505addde" name="Default" comment="" />
+      <created>1539684877019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539684877019</updated>
+    </task>
+    <task id="LOCAL-00001" summary="windows 10 first time">
+      <created>1539702252728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539702252728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="no error but need to check the result">
+      <created>1539898300639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539898300639</updated>
+    </task>
+    <task id="LOCAL-00003" summary="out of list index error">
+      <created>1540073583949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540073583949</updated>
+    </task>
+    <task id="LOCAL-00004" summary="print(&quot;sum is :&quot; + str(sum) + &quot;  self.__stdev :&quot; + str(self.__stdev)) has out of list error">
+      <created>1540157479299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540157479299</updated>
+    </task>
+    <task id="LOCAL-00005" summary="total is 0">
+      <created>1540246631107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540246631107</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6 label of classes">
+      <created>1540971171508</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540971171508</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3 labels of output class">
+      <created>1541023978116</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541023978116</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added multiy files read and execute">
+      <created>1542064959528</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542064959530</updated>
+    </task>
+    <task id="LOCAL-00009" summary=" multiy files are working.">
+      <created>1542435792912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542435792927</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Deleted the document during the coding">
+      <created>1542448240919</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542448240919</updated>
+    </task>
+    <task id="LOCAL-00011" summary="little modification">
+      <created>1542867912998</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542867912998</updated>
+    </task>
+    <task id="LOCAL-00012" summary="little modification 2">
+      <created>1542868524799</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542868524799</updated>
+    </task>
+    <task id="LOCAL-00013" summary="There 4 classed need to compare">
+      <created>1543707263063</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1543707263063</updated>
+    </task>
+    <task id="LOCAL-00014" summary="correct version">
+      <created>1543962714017</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1543962714017</updated>
+    </task>
+    <task id="LOCAL-00015" summary="all are same, rule and correct rate">
+      <created>1543964936595</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1543964936595</updated>
+    </task>
+    <task id="LOCAL-00016" summary="modified some places">
+      <created>1551969560663</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551969560663</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2933687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0738255" sideWeight="0.8632689" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.017478153" sideWeight="0.23607427" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.37623763" sideWeight="0.9092838" order="5" side_tool="false" content_ui="tabs" x="2880" y="34" width="2880" height="1526" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.033557046" sideWeight="0.46397188" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11260253" sideWeight="0.47697714" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959828" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.017478153" sideWeight="0.76392573" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3212166" sideWeight="0.48998243" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07440476" sideWeight="0.8655597" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3269962" sideWeight="0.13444027" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.37623763" sideWeight="0.9092838" order="5" side_tool="false" content_ui="tabs" x="774" y="160" width="1075" height="161" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34469697" sideWeight="0.48381963" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282636" sideWeight="0.49598286" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06866417" sideWeight="0.49814323" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18699473" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959828" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3212166" sideWeight="0.48998243" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="windows 10 first time" />
+    <MESSAGE value="no error but need to check the result" />
+    <MESSAGE value="out of list index error" />
+    <MESSAGE value="print(&quot;sum is :&quot; + str(sum) + &quot;  self.__stdev :&quot; + str(self.__stdev)) has out of list error" />
+    <MESSAGE value="total is 0" />
+    <MESSAGE value="6 label of classes" />
+    <MESSAGE value="3 labels of output class" />
+    <MESSAGE value="added multiy files read and execute" />
+    <MESSAGE value=" multiy files are working." />
+    <MESSAGE value="Deleted the document during the coding" />
+    <MESSAGE value="little modification" />
+    <MESSAGE value="little modification 2" />
+    <MESSAGE value="There 4 classed need to compare" />
+    <MESSAGE value="correct version" />
+    <MESSAGE value="all are same, rule and correct rate" />
+    <MESSAGE value="modified some places" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified some places" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chi_RW/main/Fuzzy_Chi.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chi_RW/main/Main.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chi_RW/main/Rule.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chi_RW/main/DataBase.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chi_RW/main/RuleBase.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="37" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/result2e1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="95" lean-forward="false" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/results/Chi-RW-C.iris/result9e1.txt" />
+    <entry file="file://$PROJECT_DIR$/result9e1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/datasets/iris/iris-10-9tra.dat" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Help_Classes/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/banana.dat" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/scripts/Chi-RW-C/iris/config8.txt" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/scripts/Chi-RW-C/iris/config7.txt" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/scripts/Chi-RW-C/iris/config9.txt" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/scripts/Chi-RW-C/iris/config2.txt" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/scripts/Chi-RW-C/iris/config4.txt" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/scripts/Chi-RW-C/iris/config6.txt" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/scripts/Chi-RW-C/iris/config5.txt" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/scripts/Chi-RW-C/iris/config1.txt" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/datasets/wine/wine-10-1tst.dat" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/datasets/wine/wine-10-2tst.dat" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/datasets/wine/wine-10-2tra.dat" />
+    <entry file="file://$PROJECT_DIR$/result0.tra">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result1e0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result1e1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/datasets/wine/wine-10-1tra.dat" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/datasets/iris/iris-10-2tra.dat" />
+    <entry file="file://$PROJECT_DIR$/result0.tst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/MultiMain.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Fuzzy.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Help_Classes/ErrorInfo.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Help_Classes/Attributes.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Help_Classes/FormatErrorKeeper.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Help_Classes/InstanceParser.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Help_Classes/InstanceSet.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Help_Classes/InstanceAttributes.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/DataBase.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Main.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/ParseParameters.py" />
+    <entry file="file://$PROJECT_DIR$/result0e1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/MyDataSet.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Help_Classes/Attribute.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/datasets/iris/iris-10-1tra.dat" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/datasets/iris/iris-10-1tst.dat" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/simpleTest/scripts/Chi-RW-C/iris/config0.txt" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Rule.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Help_Classes/Instance.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/RuleBase.py" />
+    <entry file="file://$PROJECT_DIR$/Chi_RW/main/Fuzzy_Chi.py" />
+    <entry file="file://$PROJECT_DIR$/result0e0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/Fuzzy_Chi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/FARC_HD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <element signature="e#1190#1233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

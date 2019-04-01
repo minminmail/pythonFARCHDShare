@@ -1,0 +1,218 @@
+!SESSION 2018-10-02 12:08:25.127 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:08:57.814
+!MESSAGE Started Node.js v5.9.1 (V8 v4.6.85.31) in 793.4 ms
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:08:58.145
+!MESSAGE Loading tern.js...
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:08:58.157
+!MESSAGE Loading library ecma5
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:08:58.179
+!MESSAGE Loading library browser
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:08:58.195
+!MESSAGE Loading library ecma6
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:08:58.209
+!MESSAGE Loading plugin doc_comment
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:08:58.245
+!MESSAGE Loading plugin aura
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:08:59.709
+!MESSAGE Tern.js (0.19.0) ready
+
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:09:00.444
+!MESSAGE System property http.proxyHost is not set but should be ingpx04.eu.boehringer.com.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:09:00.476
+!MESSAGE System property http.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:09:00.499
+!MESSAGE System property https.proxyHost is not set but should be ingpx04.eu.boehringer.com.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:09:00.509
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:09:00.523
+!MESSAGE System property https.proxyHost is not set but should be ingpx04.eu.boehringer.com.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:09:00.532
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-02 12:09:10.936
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\minr'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:09:21.996
+!MESSAGE ':core' project is not available. Please add '<module>:core</module>' to your list of partial build modules. If using para, set 'ide-search-all-files: true' and run 'para refresh'
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:09:22.267
+!MESSAGE Analyzed Lightning System JavaScript Support in 221.5 ms
+
+!ENTRY com.salesforce.ide.core 2 0 2018-10-02 12:09:44.766
+!MESSAGE  WARN [2018-10-02 12:09:44,672] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-10-02 12:09:44.783
+!MESSAGE  WARN [2018-10-02 12:09:44,779] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-10-02 12:09:44.795
+!MESSAGE  WARN [2018-10-02 12:09:44,793] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+
+!SESSION 2018-10-02 12:13:58.446 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:20.730
+!MESSAGE Started Node.js v5.9.1 (V8 v4.6.85.31) in 1.020 s
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:21.152
+!MESSAGE Loading tern.js...
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:21.199
+!MESSAGE Loading library ecma5
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:21.228
+!MESSAGE Loading library browser
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:21.248
+!MESSAGE Loading library ecma6
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:21.281
+!MESSAGE Loading plugin doc_comment
+
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:21.341
+!MESSAGE Loading plugin aura
+
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:14:22.641
+!MESSAGE System property http.proxyHost is not set but should be ingpx04.eu.boehringer.com.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:14:22.664
+!MESSAGE System property http.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:14:22.675
+!MESSAGE System property https.proxyHost is not set but should be ingpx04.eu.boehringer.com.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:14:22.681
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:14:22.695
+!MESSAGE System property https.proxyHost is not set but should be ingpx04.eu.boehringer.com.
+
+!ENTRY org.eclipse.core.net 1 0 2018-10-02 12:14:22.704
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:22.825
+!MESSAGE Tern.js (0.19.0) ready
+
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-02 12:14:32.062
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\minr'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:33.496
+!MESSAGE ':core' project is not available. Please add '<module>:core</module>' to your list of partial build modules. If using para, set 'ide-search-all-files: true' and run 'para refresh'
+
+!ENTRY mega.js.tern 1 0 2018-10-02 12:14:33.926
+!MESSAGE Analyzed Lightning System JavaScript Support in 68.30 ms
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2018-10-02 12:15:59.719
+!MESSAGE No repository found at http://download.eclipse.org/datatools/updates.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2018-10-02 12:16:00.274
+!MESSAGE HTTP Proxy Authentication Required: http://jope.ow2.org/update/jope/site.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.IncomingFileTransferException: Proxy Authentication Required
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:663)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:885)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:428)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:360)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:101)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.download(CachingTransport.java:192)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.download(CachingTransport.java:255)
+	at org.eclipse.equinox.internal.p2.updatesite.UpdateSite.loadActualSiteFile(UpdateSite.java:205)
+	at org.eclipse.equinox.internal.p2.updatesite.UpdateSite.load(UpdateSite.java:147)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.initializeRepository(UpdateSiteMetadataRepositoryFactory.java:99)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.load(UpdateSiteMetadataRepositoryFactory.java:59)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor67.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+!SUBENTRY 1 org.eclipse.ecf.identity 4 0 2018-10-02 12:16:00.277
+!MESSAGE Proxy Authentication Required
+
+!ENTRY com.salesforce.ide.core 2 0 2018-10-02 12:16:07.901
+!MESSAGE  WARN [2018-10-02 12:16:07,866] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-10-02 12:16:07.990
+!MESSAGE  WARN [2018-10-02 12:16:07,989] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-10-02 12:16:08.008
+!MESSAGE  WARN [2018-10-02 12:16:08,006] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+
+
+!ENTRY org.eclipse.equinox.p2.updatechecker 4 0 2018-10-02 12:16:08.694
+!MESSAGE Exception in update check thread
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.checkValid(BundleContextImpl.java:984)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:559)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:1011)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:27)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getSharedPreferences(AbstractRepositoryManager.java:512)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1016)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getRepositoryProperty(AbstractRepositoryManager.java:564)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:234)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
