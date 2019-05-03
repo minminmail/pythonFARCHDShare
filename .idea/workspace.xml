@@ -14,21 +14,9 @@
       <file leaf-file-name="population.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FARCHD/main/population.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2650">
-              <caret line="106" column="16" lean-forward="false" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="35" />
+            <state relative-caret-position="1001">
+              <caret line="107" column="45" lean-forward="false" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="45" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyDataSet.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FARCHD/main/MyDataSet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="92" column="24" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="24" />
-              <folding>
-                <element signature="e#1454#1502#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -36,8 +24,8 @@
       <file leaf-file-name="individual.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FARCHD/main/individual.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8200">
-              <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="329" column="15" lean-forward="true" selection-start-line="329" selection-start-column="15" selection-end-line="329" selection-end-column="22" />
               <folding>
                 <element signature="e#1500#1518#0" expanded="true" />
               </folding>
@@ -48,8 +36,8 @@
       <file leaf-file-name="item.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FARCHD/main/item.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="72" column="22" lean-forward="false" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+            <state relative-caret-position="425">
+              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,8 +56,8 @@
       <file leaf-file-name="apriori.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FARCHD/main/apriori.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="193" column="0" lean-forward="true" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="164" column="20" lean-forward="false" selection-start-line="164" selection-start-column="20" selection-end-line="164" selection-end-column="49" />
               <folding>
                 <element signature="e#1018#1047#0" expanded="true" />
               </folding>
@@ -80,8 +68,8 @@
       <file leaf-file-name="item_set.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FARCHD/main/item_set.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="75" column="33" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="97" column="16" lean-forward="false" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="16" />
               <folding>
                 <element signature="e#1402#1413#0" expanded="true" />
               </folding>
@@ -92,8 +80,8 @@
       <file leaf-file-name="RuleBase.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FARCHD/main/RuleBase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="143" column="20" lean-forward="false" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="20" />
+            <state relative-caret-position="225">
+              <caret line="130" column="20" lean-forward="false" selection-start-line="130" selection-start-column="8" selection-end-line="130" selection-end-column="20" />
               <folding>
                 <element signature="e#1166#1189#0" expanded="true" />
               </folding>
@@ -104,8 +92,18 @@
       <file leaf-file-name="FARC_HD.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FARCHD/main/FARC_HD.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+            <state relative-caret-position="291">
+              <caret line="200" column="39" lean-forward="false" selection-start-line="200" selection-start-column="28" selection-end-line="200" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataBase.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FARCHD/main/DataBase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1793">
+              <caret line="147" column="34" lean-forward="false" selection-start-line="147" selection-start-column="34" selection-end-line="147" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -132,36 +130,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>self.L2 length is</find>
-      <find>self.L2.append(item_set_here.clone_item_set())</find>
-      <find>clone</find>
-      <find>get_support</find>
-      <find>L2[0] is</find>
-      <find>calculat</find>
-      <find>get_support_class</find>
-      <find>get_</find>
-      <find>getExample</find>
-      <find>add</find>
-      <find>item_set</find>
-      <find>get_varibale</find>
-      <find>get_variable</find>
-      <find>item_i</find>
-      <find>__degree_product</find>
-      <find>degree</find>
-      <find>len(item_set_list_pass)-1</find>
-      <find>before pass to add , the item_here type</find>
-      <find>item_pass type is</find>
-      <find>item_set_list</find>
-      <find>The item list has</find>
-      <find>In generate_large, the len</find>
-      <find>generate_large</find>
-      <find>calculate_supports</find>
-      <find>egin add in item_set functio</find>
+      <find>before pass to add , the item_here i is</find>
+      <find>In item_set remove index is</find>
+      <find>float error i is</find>
+      <find>item_set_here is</find>
+      <find>col</find>
       <find>colo</find>
-      <find>size</find>
-      <find>get</find>
-      <find>L2</find>
+      <find>error</find>
+      <find>self.L2.append(item_set_here.clone_item_set()</find>
+      <find>item_set_here.size () is</find>
+      <find>after remove 0 ,clone_item_set.size () is</find>
+      <find>item_set_j</find>
+      <find>delete</find>
+      <find>L2[0] is</find>
+      <find>self.L2</find>
+      <find>clone_item_set</find>
+      <find>generate_rules</find>
+      <find>the size of new_item_set just added is</find>
+      <find>new_item_set.get_support_class()</find>
+      <find>size of item_set_j</find>
+      <find>size of item_set_i is</find>
+      <find>item_set_object.size() is</find>
+      <find>item_set_here size is</find>
+      <find>self.w1</find>
+      <find>population</find>
       <find>get_item</find>
+      <find>generate_large</find>
+      <find>rule_base_pass.size() is</find>
+      <find>From beginning the size is</find>
+      <find>add_ruleBase</find>
+      <find>rule_base_pass.size()</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -188,7 +186,6 @@
         <option value="$PROJECT_DIR$/Chi_RW/main/Rule.py" />
         <option value="$PROJECT_DIR$/Chi_RW/main/RuleBase.py" />
         <option value="$PROJECT_DIR$/Chi_RW/main/Fuzzy_Chi.py" />
-        <option value="$PROJECT_DIR$/FARCHD/main/item.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/cover.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/example_weight.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/Fuzzy.py" />
@@ -201,12 +198,13 @@
         <option value="$PROJECT_DIR$/FARCHD/main/MyDataSet.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/Rule.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/FARC_HD.py" />
-        <option value="$PROJECT_DIR$/FARCHD/main/DataBase.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/individual.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/population.py" />
-        <option value="$PROJECT_DIR$/FARCHD/main/RuleBase.py" />
+        <option value="$PROJECT_DIR$/FARCHD/main/DataBase.py" />
+        <option value="$PROJECT_DIR$/FARCHD/main/item.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/item_set.py" />
         <option value="$PROJECT_DIR$/FARCHD/main/apriori.py" />
+        <option value="$PROJECT_DIR$/FARCHD/main/RuleBase.py" />
       </list>
     </option>
   </component>
@@ -569,7 +567,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="0" width="1924" height="1030" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24531333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24588086" sideWeight="0.8632689" order="5" side_tool="false" content_ui="tabs" />
@@ -577,9 +574,9 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09505703" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03041825" sideWeight="0.46206897" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11153359" sideWeight="0.47480106" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.37623763" sideWeight="0.9092838" order="10" side_tool="false" content_ui="tabs" x="9" y="45" width="1902" height="974" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.37623763" sideWeight="0.9092838" order="10" side_tool="false" content_ui="tabs" x="17" y="45" width="1902" height="974" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24906267" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01774398" sideWeight="0.72732097" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12801014" sideWeight="0.72732097" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3212166" sideWeight="0.48998243" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -589,6 +586,25 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24588086" sideWeight="0.8632689" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16853933" sideWeight="0.27267903" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03041825" sideWeight="0.46206897" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11153359" sideWeight="0.47480106" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.37623763" sideWeight="0.9092838" order="10" side_tool="false" content_ui="tabs" x="17" y="45" width="1902" height="974" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12801014" sideWeight="0.72732097" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24531333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09505703" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24906267" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3212166" sideWeight="0.48998243" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -678,7 +694,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FARCHD/main/apriori.py</url>
-          <line>97</line>
+          <line>102</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
@@ -829,49 +845,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FARCHD/main/DataBase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5900">
-          <caret line="237" column="51" lean-forward="false" selection-start-line="237" selection-start-column="51" selection-end-line="237" selection-end-column="51" />
-          <folding>
-            <element signature="e#1420#1438#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FARCHD/main/population.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2650">
-          <caret line="106" column="16" lean-forward="false" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FARCHD/main/individual.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8200">
-          <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="0" />
-          <folding>
-            <element signature="e#1500#1518#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FARCHD/main/MyDataSet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="92" column="24" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="24" />
           <folding>
-            <element signature="e#1454#1502#0" expanded="true" />
+            <element signature="e#1454#1502#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FARCHD/main/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -885,44 +865,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FARCHD/main/item.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="72" column="22" lean-forward="false" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        <state relative-caret-position="425">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FARCHD/main/FARC_HD.py">
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
-          <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FARCHD/main/RuleBase.py">
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/individual.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="143" column="20" lean-forward="false" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="20" />
+        <state relative-caret-position="216">
+          <caret line="329" column="15" lean-forward="true" selection-start-line="329" selection-start-column="15" selection-end-line="329" selection-end-column="22" />
           <folding>
-            <element signature="e#1166#1189#0" expanded="true" />
+            <element signature="e#1500#1518#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FARCHD/main/item_set.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="75" column="33" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="33" />
+        <state relative-caret-position="225">
+          <caret line="97" column="16" lean-forward="false" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="16" />
           <folding>
             <element signature="e#1402#1413#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/DataBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1793">
+          <caret line="147" column="34" lean-forward="false" selection-start-line="147" selection-start-column="34" selection-end-line="147" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/population.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1001">
+          <caret line="107" column="45" lean-forward="false" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/FARC_HD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="200" column="39" lean-forward="false" selection-start-line="200" selection-start-column="28" selection-end-line="200" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FARCHD/main/RuleBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="130" column="20" lean-forward="false" selection-start-line="130" selection-start-column="8" selection-end-line="130" selection-end-column="20" />
+          <folding>
+            <element signature="e#1166#1189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FARCHD/main/apriori.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="193" column="0" lean-forward="true" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="164" column="20" lean-forward="false" selection-start-line="164" selection-start-column="20" selection-end-line="164" selection-end-column="49" />
           <folding>
             <element signature="e#1018#1047#0" expanded="true" />
           </folding>
