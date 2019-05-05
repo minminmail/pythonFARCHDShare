@@ -1,0 +1,8 @@
+@Number of rules: 1 Number of Antecedents by rule: 2.0
+
+1:petalWidthISL_1 ( 5)  AND petalWidth IS L_1 ( 5) : Iris-setosa CF: 0.6666666666666667
+
+
+@supp and CF:
+
+1: supp: 0.07901234567901236 AND CF: 0.6666666666666667
