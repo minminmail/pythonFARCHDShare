@@ -1,0 +1,10 @@
+15  ../datasets/pima/pima-10-1tra.dat
+15  ../datasets/pima/pima-10-2tra.dat
+20  ../datasets/pima/pima-10-3tra.dat
+20  ../datasets/pima/pima-10-4tra.dat
+13  ../datasets/pima/pima-10-5tra.dat
+14  ../datasets/pima/pima-10-6tra.dat
+15  ../datasets/pima/pima-10-7tra.dat
+14  ../datasets/pima/pima-10-8tra.dat
+13  ../datasets/pima/pima-10-9tra.dat
+15  ../datasets/pima/pima-10-10tra.dat

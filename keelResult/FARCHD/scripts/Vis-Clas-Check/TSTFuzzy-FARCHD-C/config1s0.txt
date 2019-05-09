@@ -1,0 +1,8 @@
+algorithm = Summary of Classification probs.
+inputData = "../results/Fuzzy-FARCHD-C.pima/result0s0.tst" "../results/Fuzzy-FARCHD-C.pima/result1s0.tst" "../results/Fuzzy-FARCHD-C.pima/result2s0.tst" "../results/Fuzzy-FARCHD-C.pima/result3s0.tst" "../results/Fuzzy-FARCHD-C.pima/result4s0.tst" "../results/Fuzzy-FARCHD-C.pima/result5s0.tst" "../results/Fuzzy-FARCHD-C.pima/result6s0.tst" "../results/Fuzzy-FARCHD-C.pima/result7s0.tst" "../results/Fuzzy-FARCHD-C.pima/result8s0.tst" "../results/Fuzzy-FARCHD-C.pima/result9s0.tst" "../results/Fuzzy-FARCHD-C.pima/result0s0.tra" "../results/Fuzzy-FARCHD-C.pima/result1s0.tra" "../results/Fuzzy-FARCHD-C.pima/result2s0.tra" "../results/Fuzzy-FARCHD-C.pima/result3s0.tra" "../results/Fuzzy-FARCHD-C.pima/result4s0.tra" "../results/Fuzzy-FARCHD-C.pima/result5s0.tra" "../results/Fuzzy-FARCHD-C.pima/result6s0.tra" "../results/Fuzzy-FARCHD-C.pima/result7s0.tra" "../results/Fuzzy-FARCHD-C.pima/result8s0.tra" "../results/Fuzzy-FARCHD-C.pima/result9s0.tra" 
+outputData = "../results/Vis-Clas-Check/TSTFuzzy-FARCHD-C/result1s0.stat" 
+
+seed = 488269753
+subAlgorithm = StatCheckCL
+dataformat = keel
+outlabel = CHK

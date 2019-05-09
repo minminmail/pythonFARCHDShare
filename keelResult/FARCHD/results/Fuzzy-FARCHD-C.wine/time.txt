@@ -1,0 +1,10 @@
+4  ../datasets/wine/wine-10-1tra.dat
+4  ../datasets/wine/wine-10-2tra.dat
+3  ../datasets/wine/wine-10-3tra.dat
+4  ../datasets/wine/wine-10-4tra.dat
+3  ../datasets/wine/wine-10-5tra.dat
+3  ../datasets/wine/wine-10-6tra.dat
+3  ../datasets/wine/wine-10-7tra.dat
+4  ../datasets/wine/wine-10-8tra.dat
+4  ../datasets/wine/wine-10-9tra.dat
+4  ../datasets/wine/wine-10-10tra.dat

@@ -1,0 +1,44 @@
+TEST RESULTS
+============
+Classifier= wine 
+Fold 0 : CORRECT=0.8888888888888888 N/C=0.0 
+Fold 1 : CORRECT=0.9444444444444444 N/C=0.0 
+Fold 2 : CORRECT=1.0 N/C=0.0 
+Fold 3 : CORRECT=1.0 N/C=0.0 
+Fold 4 : CORRECT=0.8235294117647058 N/C=0.0 
+Fold 5 : CORRECT=0.8235294117647058 N/C=0.0 
+Fold 6 : CORRECT=1.0 N/C=0.0 
+Fold 7 : CORRECT=1.0 N/C=0.0 
+Fold 8 : CORRECT=0.9444444444444444 N/C=0.0 
+Fold 9 : CORRECT=1.0 N/C=0.0 
+Global Classification Error + N/C:
+0.05751633986928105 
+stddev Global Classification Error + N/C:
+0.06908036046746824 
+Correctly classified:
+0.9424836601307189 
+Global N/C:
+0.0 
+
+TRAIN RESULTS
+============
+Classifier= wine 
+Summary of data, Classifiers: wine 
+Fold 0 : CORRECT=1.0 N/C=0.0 
+Fold 1 : CORRECT=1.0 N/C=0.0 
+Fold 2 : CORRECT=1.0 N/C=0.0 
+Fold 3 : CORRECT=0.99375 N/C=0.0 
+Fold 4 : CORRECT=1.0 N/C=0.0 
+Fold 5 : CORRECT=1.0 N/C=0.0 
+Fold 6 : CORRECT=1.0 N/C=0.0 
+Fold 7 : CORRECT=1.0 N/C=0.0 
+Fold 8 : CORRECT=1.0 N/C=0.0 
+Fold 9 : CORRECT=1.0 N/C=0.0 
+Global Classification Error + N/C:
+6.25E-4 
+stddev Global Classification Error + N/C:
+0.0018750000000000001 
+Correctly classified:
+0.999375 
+Global N/C:
+0.0 

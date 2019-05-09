@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<execution>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config1s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config2s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config3s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config4s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config5s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config6s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config7s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config8s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/iris/config9s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ClasifTest_Summary.jar</executableFile>
+    <scriptFile>./Vis-Clas-Check/TSTFuzzy-FARCHD-C/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config1s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config2s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config3s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config4s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config5s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config6s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config7s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config8s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/pima/config9s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ClasifTest_Summary.jar</executableFile>
+    <scriptFile>./Vis-Clas-Check/TSTFuzzy-FARCHD-C/config1s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config1s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config2s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config3s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config4s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config5s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config6s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config7s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config8s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/Clas-Fuzzy-FARCHD.jar</executableFile>
+    <scriptFile>./Fuzzy-FARCHD-C/wine/config9s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ClasifTest_Summary.jar</executableFile>
+    <scriptFile>./Vis-Clas-Check/TSTFuzzy-FARCHD-C/config2s0.txt</scriptFile>
+  </sentence>
+</execution>
+

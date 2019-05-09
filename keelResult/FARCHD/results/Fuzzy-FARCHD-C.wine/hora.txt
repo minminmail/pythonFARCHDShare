@@ -1,0 +1,10 @@
+00:00:04  ../datasets/wine/wine-10-1tra.dat
+00:00:04  ../datasets/wine/wine-10-2tra.dat
+00:00:03  ../datasets/wine/wine-10-3tra.dat
+00:00:04  ../datasets/wine/wine-10-4tra.dat
+00:00:03  ../datasets/wine/wine-10-5tra.dat
+00:00:03  ../datasets/wine/wine-10-6tra.dat
+00:00:03  ../datasets/wine/wine-10-7tra.dat
+00:00:04  ../datasets/wine/wine-10-8tra.dat
+00:00:04  ../datasets/wine/wine-10-9tra.dat
+00:00:04  ../datasets/wine/wine-10-10tra.dat
